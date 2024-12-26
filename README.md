@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I'm Haris!
 
-<!--
-**Haris-199/Haris-199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering Student** passionate about **Web Development** and **Embedded Systems**.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies I Work With:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Node.js, Express
+- **Frontend:** EJS, HTML, CSS, React
+- **Database:** PostgreSQL, Oracle, SQLite
+- **Tools:** Git, VS Code, MATLAB
+
+### 🌟 About Me:
+
+I'm on a journey to find my niche in tech, balancing my love for **coding** and curiosity for **hardware**. 
+
+Feel free to reach out or collaborate on exciting projects!
